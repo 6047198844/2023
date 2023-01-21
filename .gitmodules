@@ -1,0 +1,3 @@
+[submodule "spring-batch/spring-batch-lecture"]
+	path = spring-batch/spring-batch-lecture
+	url = https://github.com/onjsdnjs/spring-batch-lecture
