@@ -1,3 +1,6 @@
 [submodule "spring-batch/spring-batch-lecture"]
 	path = spring-batch/spring-batch-lecture
 	url = https://github.com/onjsdnjs/spring-batch-lecture
+[submodule "domain-driven-development/ddd-start2"]
+	path = domain-driven-development/ddd-start2
+	url = https://github.com/madvirus/ddd-start2.git
