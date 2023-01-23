@@ -4,7 +4,7 @@
 > [섹션 1. 스프링 배치 소개](https://medium.com/@18corsair/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-spring-boot-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94-spring-batch-%EC%A0%95%EC%88%98%EC%9B%90-%EA%B0%95%EC%82%AC%EB%8B%98-1%EC%9E%A5-%EC%9A%94%EC%95%BD-dec0cd2917bb) <br>
 > [섹션 2. 스프링 배치 시작](https://medium.com/@18corsair/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-spring-boot-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94-spring-batch-%EC%A0%95%EC%88%98%EC%9B%90-%EA%B0%95%EC%82%AC%EB%8B%98-2%EC%9E%A5-%EC%9A%94%EC%95%BD-f07af10ce339) <br>
 > [섹션 3. 스프링 배치 도메인 이해](https://medium.com/@18corsair/스프링-배치-spring-boot-기반으로-개발하는-spring-batch-정수원-강사님-3장-step-stepexecution-stepcontribution-요약-ed459ba7c29e) <br>
-> 섹션 4. 스프링 배치 실행 - Job <br>
+> [섹션 4. 스프링 배치 실행 - Job](https://medium.com/@18corsair/%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B0%B0%EC%B9%98-spring-boot-%EA%B8%B0%EB%B0%98%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EB%8A%94-spring-batch-%EC%A0%95%EC%88%98%EC%9B%90-%EA%B0%95%EC%82%AC%EB%8B%98-4%EC%9E%A5-%EC%9A%94%EC%95%BD-af42e4a91213) <br>
 > 섹션 5. 스프링 배치 실행 - Step <br>
 > 섹션 6. 스프링 배치 실행 - Flow <br>
 > 섹션 7. 스프링 배치 청크 프로세스 이해 <br>
