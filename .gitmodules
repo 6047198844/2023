@@ -4,3 +4,6 @@
 [submodule "domain-driven-development/ddd-start2"]
 	path = domain-driven-development/ddd-start2
 	url = https://github.com/madvirus/ddd-start2.git
+[submodule "domain-driven-development/ddd"]
+	path = domain-driven-development/ddd
+	url = https://github.com/wikibook/ddd.git
