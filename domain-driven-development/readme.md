@@ -3,7 +3,7 @@
 > [Chapter 1. 도메인 모델 시작하기](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-1장-도메인-모델-시작하기-422d1f96974c) <br>
 > [Chapter 2. 아키텍처 개요](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-2장-아키텍처-개요-c5b140afdd16) <br>
 > [Chapter 3. 애그리거트](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-3장-애그리거트-d0c6f07e9c1e) <br>
-> Chapter 4. 리포지터리와 모델 구현(JPA 중심) <br>
+> [Chapter 4. 리포지터리와 모델 구현(JPA 중심) <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-4장-리포지터리와-모델-구현-166999a861a3)
 > Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능 <br>
 > Chapter 6. 응용 서비스와 표현 영역 <br>
 > Chpater 7. 도메인 서비스 <br>
