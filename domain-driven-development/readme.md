@@ -6,7 +6,7 @@
 > [Chapter 4. 리포지터리와 모델 구현(JPA 중심) <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-4장-리포지터리와-모델-구현-166999a861a3)
 > Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능 <br>
 > [Chapter 6. 응용 서비스와 표현 영역 <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-6장-응용-서비스와-표현-영역-736ef7b57809)
-> Chpater 7. 도메인 서비스 <br>
+> [Chpater 7. 도메인 서비스 <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-7장-도메인-서비스-1602f8904713)
 > Chapter 8. 애그리거트 트랜잭션 관리 <br>
 > Chapter 9. 도메인 모델과 바운디드 컨텍스트 <br>
 > Chapter 10. 이벤트 <br>
