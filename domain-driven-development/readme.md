@@ -7,8 +7,8 @@
 > Chapter 5. 스프링 데이터 JPA를 이용한 조회 기능 <br>
 > [Chapter 6. 응용 서비스와 표현 영역 <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-6장-응용-서비스와-표현-영역-736ef7b57809)
 > [Chpater 7. 도메인 서비스 <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-7장-도메인-서비스-1602f8904713)
-> Chapter 8. 애그리거트 트랜잭션 관리 <br>
-> Chapter 9. 도메인 모델과 바운디드 컨텍스트 <br>
+> [Chapter 8. 애그리거트 트랜잭션 관리 <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-8장-애그리거트-트랜잭션-관리-aec23d397c32)
+> [Chapter 9. 도메인 모델과 바운디드 컨텍스트 <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-9장-도메인-모델과-바운디드-컨텍스트-f9b13c3bafa9)
 > Chapter 10. 이벤트 <br>
 > Chapter 11. CQRS <br> 
 
