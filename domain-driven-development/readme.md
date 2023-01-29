@@ -9,8 +9,8 @@
 > [Chpater 7. 도메인 서비스 <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-7장-도메인-서비스-1602f8904713)
 > [Chapter 8. 애그리거트 트랜잭션 관리 <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-8장-애그리거트-트랜잭션-관리-aec23d397c32)
 > [Chapter 9. 도메인 모델과 바운디드 컨텍스트 <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-9장-도메인-모델과-바운디드-컨텍스트-f9b13c3bafa9)
-> Chapter 10. 이벤트 <br>
-> Chapter 11. CQRS <br> 
+> [Chapter 10. 이벤트 <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-10장-이벤트-c82177529ed2)
+> [Chapter 11. CQRS <br>](https://medium.com/@18corsair/도메인-주도-개발-시작하기-최범균-11장-cqrs-b9068d7caaa9)
 
 [2) ddd](https://product.kyobobook.co.kr/detail/S000001766446) <br>
 **도메인 주도 설계 철저 입문 코드와 패턴으로 밑바닥부터 이해하는 DDD 나루세 마사노부 저 를 읽고 정리합니다. <br>**
