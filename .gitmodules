@@ -7,3 +7,6 @@
 [submodule "domain-driven-development/ddd"]
 	path = domain-driven-development/ddd
 	url = https://github.com/wikibook/ddd.git
+[submodule "object-oriented-programming/object"]
+	path = object-oriented-programming/object
+	url = https://github.com/eternity-oop/object.git
