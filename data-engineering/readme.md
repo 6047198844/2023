@@ -1,0 +1,19 @@
+[1) data-intensive-applications](https://product.kyobobook.co.kr/detail/S000001766328) <br>
+**Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems 1st Edition by Martin Kleppmann  읽고 정리합니다. <br>**
+**데이터 중심 애플리케이션 설계 신뢰할 수 있고 확장 가능하며 유지보수하기 쉬운 시스템을 지탱하는 핵심 아이디어 마틴 클레프만 저/정재부, 김영준, 이도경 역를 참고 합니다. <br>**
+> Preface
+[Chapter I] Foundations of Data Systems
+> 1. Reliable, Scalable, and Maintainable Applications
+> 2. Data Models and Query Languages
+> 3. Storage and Retrieval
+> 4. Encoding and Evolution
+[Chapter II] Distributed Data
+> 5. Replication
+> 6. Partitioning
+> 7. Transactions
+> 8. The Trouble with Distributed Systems
+> 9. Consistency and Consensus
+[Chapter III] Derived Data
+> 10. Batch Processing
+> 11. Stream Processing
+> 12. The Future of Data Systems

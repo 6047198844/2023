@@ -10,3 +10,6 @@
 [submodule "object-oriented-programming/object"]
 	path = object-oriented-programming/object
 	url = https://github.com/eternity-oop/object.git
+[submodule "data-engineering/data-intensive-applications"]
+	path = data-engineering/data-intensive-applications
+	url = https://github.com/wikibook/data-intensive-applications.git
