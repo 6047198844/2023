@@ -19,7 +19,7 @@
 > 섹션 16. 강좌 마무리 <br>
 
 [2) spring-batch-Reference Documentation](https://docs.spring.io/spring-batch/docs/current/reference/html/index-single.html) <br>
-**스프링 배치 공식 문서를 번역해보며 기록합니다. 오역 / 의역 존재합니다. 기록용이니 너른 양해 부탁드립니다. <br>**
+**스프링 배치 공식 문서를 번역해보며 기록합니다. 오역 / 의역 존재합니다. <br>**
 > 1. [Spring Batch Introduction](https://medium.com/@18corsair/spring-batch-reference-documentation-8e67aeb792fa) <br>
 > 2. What’s New in Spring Batch 5.0 <br>
 > 3. The Domain Language of Batch <br>
@@ -35,3 +35,23 @@
 > 13. Spring Batch Integration <br>
 > 14. Monitoring and metrics <br>
 > 15. Tracing <br>
+
+[3) spring-batch](https://github.com/spring-projects/spring-batch) <br>
+**스프링 배치 프로젝트 탐구하기 <br>**
+
+[4) def-guide-spring-batch](https://github.com/Apress/def-guide-spring-batch) <br>
+[4) definitive-spring-batch](https://github.com/AcornPublishing/definitive-spring-batch) <br>
+**스프링 배치 완벽 가이드 2/e 클라우드 환경에서 활용하는 모던 배치 처리 마이클 미넬라 저/서경석, 김성윤, 이승룡 역을 읽고 정리합니다. <br>**
+> 1장. 배치와 스프링 
+> 2장. 스프링 배치 
+> 3장. 예제 잡 애플리케이션 
+> 4장. 잡과 스텝 이해하기 
+> 5장. JobRepository와 메타데이터 
+> 6장. 잡 실행하기 
+> 7장. ItemReader 
+> 8장. ItemProcessor 
+> 9장. ItemWriter 
+> 10장. 예제 애플리케이션 
+> 11장. 확장과 튜닝 
+> 12장. 클라우드 네이티브 배치 
+> 13장. 배치 처리 테스트하기

@@ -13,3 +13,12 @@
 [submodule "data-engineering/data-intensive-applications"]
 	path = data-engineering/data-intensive-applications
 	url = https://github.com/wikibook/data-intensive-applications.git
+[submodule "spring-batch/spring-batch"]
+	path = spring-batch/spring-batch
+	url = https://github.com/spring-projects/spring-batch.git
+[submodule "spring-batch/def-guide-spring-batch"]
+	path = spring-batch/def-guide-spring-batch
+	url = https://github.com/Apress/def-guide-spring-batch.git
+[submodule "spring-batch/definitive-spring-batch"]
+	path = spring-batch/definitive-spring-batch
+	url = https://github.com/AcornPublishing/definitive-spring-batch
