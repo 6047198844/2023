@@ -1,7 +1,7 @@
 [1) operating-system](https://product.kyobobook.co.kr/detail/S000001772604) <br>
 **운영체제와 정보기술의 원리, 반효경 저를 읽고 정리합니다. <br>**
 > [서장. 정보기술의 원리와 철학<br>](https://medium.com/@18corsair/운영체제와-정보기술의-원리-반효경-저-서장-c874be5116bf)
-> 1장. 컴퓨터 및 정보기술의 역사<br> 
+> [1장. 컴퓨터 및 정보기술의 역사<br>](https://medium.com/@18corsair/운영체제와-정보기술의-원리-반효경-저-1장-요약-c7ced5958df8) 
 > 2장. 운영체제 개요<br>
 > 3장. 컴퓨터 시스템의 동작 원리<br> 
 > 4장. 프로그램의 구조와 실행<br>
