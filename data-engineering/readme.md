@@ -4,7 +4,7 @@
 [Preface  <br>](https://medium.com/@18corsair/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-e72b9db2a81a)
 [Chapter I] Foundations of Data Systems <br> 
 > [1. Reliable, Scalable, and Maintainable Applications <br>](https://medium.com/@18corsair/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-e72b9db2a81a)
-> 2. Data Models and Query Languages <br>
+> [2. Data Models and Query Languages <br>](https://medium.com/@18corsair/designing-data-intensive-applications-the-big-ideas-behind-reliable-scalable-and-maintainable-906abc354142)
 > 3. Storage and Retrieval <br>
 > 4. Encoding and Evolution <br>
 
