@@ -19,3 +19,9 @@
 > 10. Batch Processing <br>
 > 11. Stream Processing <br>
 > 12. The Future of Data Systems <br>
+
+2) aws-glue<br>
+**aws glue 관련 내용을 정리하고 분석합니다. **
+[youtube](https://www.youtube.com/user/AmazonWebServices/Cloud)
+1. [What is AWS Glue?](https://medium.com/@18corsair/aws-glue-what-is-aws-glue-e5054cbe969b)
+2. [AWS Glue Overview | Amazon Web Services](https://medium.com/@18corsair/aws-glue-aws-glue-overview-amazon-web-services-884cb82010d5)
