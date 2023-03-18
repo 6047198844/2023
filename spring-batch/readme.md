@@ -11,7 +11,7 @@
 > [섹션 8. 스프링 배치 청크 프로세스 활용 - ItemReader <br>](https://medium.com/@18corsair/스프링-배치-spring-boot-기반으로-개발하는-spring-batch-정수원-강사님-스프링-배치-청크-프로세스-활용-itemreader-8장-요약-168ad7d7419c)
 > [섹션 9. 스프링 배치 청크 프로세스 활용 - ItemWriter <br>](https://medium.com/@18corsair/스프링-배치-spring-boot-기반으로-개발하는-spring-batch-정수원-강사님-스프링-배치-청크-프로세스-활용-itemwriter-9장-요약-88218f400476)
 > [섹션 10. 스프링 배치 청크 프로세스 활용 - ItemProcessor <br>](https://medium.com/@18corsair/스프링-배치-spring-boot-기반으로-개발하는-spring-batch-정수원-강사님-스프링-배치-청크-프로세스-활용-itemprocessor-10장-요약-1d4b4ae38e31)
-> 섹션 11. 스프링 배치 반복 및 오류 제어 <br>
+> [섹션 11. 스프링 배치 반복 및 오류 제어 <br>](https://medium.com/@18corsair/스프링-배치-spring-boot-기반으로-개발하는-spring-batch-정수원-강사님-스프링-배치-반복-및-오류-제어-11장-요약-d98409c9196)
 > 섹션 12. 스프링 배치 멀티 스레드 프로세싱 <br>
 > 섹션 13. 스프링 배치 이벤트 리스너 <br>
 > 섹션 14. 스프링 배치 테스트 및 운영 <br>
